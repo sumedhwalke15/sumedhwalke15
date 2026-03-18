@@ -67,7 +67,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Toxic Snake
 
 <picture>
   <source
